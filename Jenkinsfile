@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Muniraju') {
             steps {
-                echo 'this is prdouction'
+                echo 'this is Demo'
             }
         }
     }
